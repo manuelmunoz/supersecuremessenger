@@ -1,0 +1,7 @@
+Caracteristicas
+
+- Mensajes y nombres de usuarios cifrados con AES.
+- Sin necesidad de correo para el registro.
+- Sin tiempo grabado.
+- Sin que nadie sepa si un nombre de usuario existe o no.
+- No guardamos mensaje mas de una semana.
